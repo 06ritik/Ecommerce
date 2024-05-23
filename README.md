@@ -76,10 +76,10 @@ Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 ![Categories](https://drive.google.com/uc?id=16noslSHkDHGqq283xvGVJobg0gUUmq9f)
 
 ### Cart Page
-![Cart Page](https://drive.google.com/file/d/10_KeJ2iI7RZwGVb114AdvzynmqfVDi2d/view?usp=drive_link)
+![Cart Page](https://drive.google.com/uc?id=10_KeJ2iI7RZwGVb114AdvzynmqfVDi2d)
 
 ### Delivery Page
-![Delivery Page](https://drive.google.com/file/d/1ORjz7dkKZiFXTMXR7l5uQ4C7wOLntaXr/view?usp=drive_link)
+![Delivery Page](https://drive.google.com/uc?id=1ORjz7dkKZiFXTMXR7l5uQ4C7wOLntaXr)
 
 To add screenshots, save your images in a screenshots directory in the root of your project and reference them in the README.md file as shown above.
 
@@ -100,4 +100,4 @@ Special thanks to contributors for their valuable inputs and support.
 ## Contact
 For any queries or suggestions, feel free to contact:
 
-Sandeep Pal - pallsandeep454@gmail.com
+Ritik Raj - 06ritikraj@gmail.com
