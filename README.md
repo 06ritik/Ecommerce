@@ -71,6 +71,7 @@ Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 ### Authentication Page
 ![Authentication Page](https://drive.google.com/uc?id=1TRRJO_k690-5yZQlFK60IW4aS2LafViE)
 
+
 ### Categories
 ![Categories](https://drive.google.com/uc?id=16noslSHkDHGqq283xvGVJobg0gUUmq9f)
 
