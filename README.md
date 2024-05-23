@@ -69,16 +69,16 @@ Use Postman or a similar tool to test backend APIs at http://localhost:5000/api.
 ![Home Page](https://drive.google.com/uc?id=1xlWL2DY4uVV4UKkgGYg_ZJackl9m6wN5)
 
 ### Authentication Page
-![Authentication Page](https://drive.google.com/uc?id=1pnNIjDzUyqd3ZdIetQZOLupFlHB3ZMU_)
+![Authentication Page](https://drive.google.com/file/d/1TRRJO_k690-5yZQlFK60IW4aS2LafViE/view?usp=drive_link_)
 
 ### Categories
 ![Categories](https://drive.google.com/uc?id=16noslSHkDHGqq283xvGVJobg0gUUmq9f)
 
 ### Cart Page
-![Cart Page](https://drive.google.com/uc?id=1t4KKkZ2nxrDrmbJnyKavZ0FsWTgxtYxn)
+![Cart Page](https://drive.google.com/file/d/10_KeJ2iI7RZwGVb114AdvzynmqfVDi2d/view?usp=drive_link)
 
 ### Delivery Page
-![Delivery Page](https://drive.google.com/uc?id=16zu0sxZ3crPjPwk-PgIjETBzVEducQ2S)
+![Delivery Page](https://drive.google.com/file/d/1ORjz7dkKZiFXTMXR7l5uQ4C7wOLntaXr/view?usp=drive_link)
 
 To add screenshots, save your images in a screenshots directory in the root of your project and reference them in the README.md file as shown above.
 
